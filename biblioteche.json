@@ -1,0 +1,196 @@
+{
+        name: "Biblioteca Borgo Panigale",
+        scheda: "[[http://www.bibliotechebologna.it/luoghi/52056/id/55864|Scheda Completa]]",
+        descrizione: "Biblioteca di pubblica lettura dell' istituzione biblioteche, ubicata nel q.re Borgo Panigale.",
+        indirizzo: "Via Legnano, 2",
+        telefono: "051 404930",
+        tipologia: "Biblioteche dell'Istituzione - Biblioteche nei quartieri",
+        quartiere: "Borgo Panigale - Reno",
+        posizione: {type: "Point", "coordinates": [11.265465617179872, 44.5229053585687]}
+}
+{
+        name: "Biblioteca Dipartimento di Matematica",
+        scheda: "[[http://http://www.matematica.unibo.it/it/biblioteca]",
+        indirizzo: "Piazza di Porta San Donato 5",
+        telefono: "051 2094411",
+        tipologia: "Biblioteca Universitaria",
+        giornoChiusura: "Domenica",
+        quartiere: "Centro"
+}
+{
+        name: "Biblioteca Casa di Khaoula",
+        scheda: "[[http://www.bibliotechebologna.it//luoghi/52056/id/51650|Scheda Completa]]",
+        descrizione: "La biblioteca, ispirata da una bambina immigrata di nome Khaoula che aveva chiesto al Quartiere Navile un luogo dove fare i compiti e leggere, ha come obiettivo specifico quello di favorire l�integrazione delle diverse culture...",
+        indirizzo: "Via di Corticella, 104",
+        telefono: "051 6312721",
+        tipologia: "Biblioteche dell'Istituzione - Biblioteche nei quartieri",
+        quartiere: "Navile",
+        posizione: {type: "Point", "coordinates": [11.347519755363466, 44.520096070630856]}
+}
+{
+        name: "Biblioteca del Centro Amilcar Cabral",
+        scheda: "[[http://www.bibliotechebologna.it//luoghi/52056/id/51662|Scheda Completa]]",
+        descrizione: "La biblioteca del Centro Amilcar Cabral � specializzata in studi ed iniziative su Africa, Asia ed America latina.",
+        indirizzo: "Via San Mamolo, 24",
+        telefono: "051 581464",
+        tipologia: "Biblioteche dell'Istituzione",
+        quartiere: "Santo Stefano",
+        giornoChiusura: "Domenica",
+        posizione: {type: "Point", "coordinates": [11.3393009, 44.4841781]}
+}
+{
+        name: "Biblioteca del Quartiere Navile - Zona Corticella",
+        scheda: "[[http://www.bibliotechebologna.it//luoghi/52056/id/51651|Scheda Completa]]",
+        descrizione: "Biblioteca di pubblica lettura, inaugurata nel 1978 all�interno del Centro Civico Corticella. ",
+        indirizzo: "Via Gorki, 14",
+        telefono: "051 700972",
+        tipologia: "Biblioteche dell'Istituzione - Biblioteche nei quartieri",
+        quartiere: "Navile",
+         posizione: {type: "Point", "coordinates": [ 11.359696984291078, 44.54625029044075]}
+}
+{
+        name: "Biblioteca dell'Archiginnasio",
+        scheda: "[[http://www.bibliotechebologna.it//luoghi/52056/id/51660|Scheda Completa]]",
+        descrizione: "La biblioteca dell'Archiginnasio � una biblioteca di ricerca e di conservazione, specializzata nel campo umanistico e nella storia della citt�.",
+        indirizzo: "Piazza Galvani 1",
+        telefono: "051 276811",
+        tipologia: "Biblioteche dell'Istituzione",
+        quartiere: "Santo Stefano",
+        posizione: {type: "Point", "coordinates": [11.343665421009065,44.49194025375882]}
+}
+{
+        name: "Biblioteca dell�Istituto per la Storia e le Memorie del Novecento Parri E-R",
+        scheda: "[[http://www.bibliotechebologna.it//luoghi/52056/id/77982|Scheda Completa]]",
+        descrizione: "L'Istituto Parri fu costituito a Bologna il 2 giugno 1963, su iniziativa di un gruppo di intellettuali e di protagonisti dell'Antifascismo e della Resistenza, per raccogliere le memorie e la documentazione sull'opposizione alla dittatura e alla guerra fascista.",
+        indirizzo: "",
+        telefono: "051 3397211",
+        tipologia: "Biblioteche collegate all'Istituzione",
+        quartiere: "Porto - Saragozza",
+        posizione: {type: "Point", "coordinates": [11.333738565444948, 44.493612498751496]}
+}
+{
+        name: "Biblioteca Italiana delle Donne",
+        scheda: "[[http://www.bibliotechebologna.it//luoghi/52056/id/58807|Scheda Completa]]",
+        descrizione: "Biblioteca Italiana delle Donne, specializzata in cultura femminile, studi di genere e femminismo.",
+        indirizzo: "Via del Piombo 5",
+        telefono: "051 4299411",
+        tipologia: "Biblioteche collegate all'Istituzione",
+        quartiere: "Santo Stefano",
+        posizione: {type: "Point", "coordinates": [11.355700492858887, 44.48842340818463]}
+}
+{
+        name: "Biblioteca Jorge Luis Borges del Quartiere Porto",
+        scheda: "[[http://www.bibliotechebologna.it//luoghi/52056/id/51656|Scheda Completa]]",
+        descrizione: "La Biblioteca Borges � una biblioteca di pubblica lettura nata nella struttura dell'antico mercato del bestiame.",
+        indirizzo: "Via dello Scalo, 21/2",
+        telefono: "051 525870",
+        tipologia: "Biblioteche dell'Istituzione - Biblioteche nei quartieri",
+        quartiere: "Porto - Saragozza",
+        posizione: {type: "Point", "coordinates": [11.328352689743044, 44.50237282470197]}
+}
+{
+        name: "Biblioteca Lame-Cesare Malservisi",
+        scheda: "[[http://www.bibliotechebologna.it//luoghi/52056/id/51652|Scheda Completa]]",
+        descrizione: "Biblioteca di pubblica lettura, ubicata nel Quartiere Navile. Organizza attivit� di promozione della lettura in collegamento con le scuole,",
+        indirizzo: "Via Marco Polo, 21/13",
+        telefono: "051 6350948",
+        tipologia: "Biblioteche dell'Istituzione - Biblioteche nei quartieri",
+        quartiere: "Navile",
+        posizione: {type: "Point", "coordinates": [11.32965087890625, 44.51842649769838]}
+}
+{
+        name: "Biblioteca Luigi Spina del Quartiere San Donato",
+        scheda: "[[http://www.bibliotechebologna.it//luoghi/52056/id/51655|Scheda Completa]]",
+        descrizione: "Biblioteca di pubblica lettura, ubicata nel Quartiere San Donato, impegnata nell'organizzazione di laboratori e aperta, su prenotazione, ad iniziative per classi scolastiche quali incontri sull'uso della biblioteca e ricerche.",
+        indirizzo: "Via Casini, 5",
+        telefono: "051 500365",
+        tipologia: "Biblioteche dell'Istituzione - Biblioteche nei quartieri",
+        quartiere: "San Donato - San Vitale",
+        posizione: {type: "Point", "coordinates": [11.39463543891907,44.51109549277378]}
+}
+{
+        name: "Biblioteca Natalia Ginzburg del Quartiere Savena",
+        scheda: "[[http://www.bibliotechebologna.it//luoghi/52056/id/51653|Scheda Completa]]",
+        descrizione: "Biblioteca di pubblica lettura, ubicata nel Quartiere Savena, e dedicata alla scrittrice Natalia Ginzburg (Palermo, 1916 - Roma, 1991).",
+        indirizzo: "Via Genova, 10",
+        telefono: "051 466307",
+        tipologia: "Biblioteche dell'Istituzione - Biblioteche nei quartieri",
+        quartiere: "Savena",
+        posizione: {type: "Point", "coordinates": [11.39187276363373, 44.474085954766004]}
+}
+{
+        name: "Biblioteca Oriano Tassinari Cl� - Villa Spada - Quartiere Saragozza",
+        scheda: "[[http://www.bibliotechebologna.it//luoghi/52056/id/51658|Scheda Completa]]",
+        descrizione: "Biblioteca di pubblica lettura, dal 1998 intitolata allo scrittore e studioso di storia bolognese Oriano Tassinari Cl� (Bologna, 1936- 1995), si trova all'interno del parco di Villa Spada, nel Quartiere Saragozza.",
+        indirizzo: "Via di Casaglia, 7",
+        telefono: "051 434383",
+        tipologia: "Biblioteche dell'Istituzione - Biblioteche nei quartieri",
+        quartiere: "Porto - Saragozza",
+        posizione: {type: "Point", "coordinates": [11.31509989500046, 44.48730593298832 ]}
+}
+{
+        name: "Biblioteca Orlando Pezzoli",
+        scheda: "[[http://www.bibliotechebologna.it//luoghi/52056/id/51654|Scheda Completa]]",
+        descrizione: "Biblioteca di pubblica lettura del Quartiere Reno, intitolata al maestro e partigiano Orlando Pezzoli (Castel Maggiore, 1922), storico della vita culturale del quartiere. ",
+        indirizzo: "Via Battindarno, 123",
+        telefono: "051 6177844",
+        tipologia: "Biblioteche dell'Istituzione - Biblioteche nei quartieri",
+        quartiere: "Borgo Panigale - Reno",
+        posizione: {type: "Point", "coordinates": [11.29696547985077, 44.50207439454571]}
+}
+{
+        name: "Biblioteca R. Ruffilli",
+        scheda: "[[http://www.bibliotechebologna.it//luoghi/52056/id/51657|Scheda Completa]]",
+        descrizione: "Situata nel Quartiere San Vitale al primo piano dello storico edificio dell�ex convento San Leonardo, intitolata a Roberto Ruffilli (Forl�, 1937-1988), l�uomo politico assassinato dalle Brigate Rosse.",
+        indirizzo: "Vicolo Bolognetti, 2",
+        telefono: "051 276143",
+        tipologia: "Biblioteche dell'Istituzione - Biblioteche nei quartieri",
+        quartiere: "Santo Stefano",
+        posizione: {type: "Point", "coordinates": [11.354372799396517, 44.49365459125619]}
+}
+{
+        name: "Biblioteca Sala Borsa",
+        scheda: "[[http://www.bibliotechebologna.it//luoghi/52056/id/51661|Scheda Completa]]",
+        descrizione: "La biblioteca Salaborsa � una biblioteca multimediale di informazione generale che intende documentare la cultura contemporanea attraverso tutti i documenti disponibili.",
+        indirizzo: "Piazza del Nettuno 3",
+        telefono: "051 2194400",
+        tipologia: "Biblioteche dell'Istituzione",
+        quartiere: "Porto - Saragozza",
+        posizione: {type: "Point", "coordinates": [11.342321634292604, 44.49464375637071]}
+}
+{
+        name: "Biblioteca Scandellara",
+        scheda: "[[http://www.bibliotechebologna.it//luoghi/52056/id/55862|Scheda Completa]]",
+        descrizione: "Biblioteca di pubblica lettura nel Quartiere San Vitale, inserita nel polo integrato di servizi del Centro Scandellara.",
+        indirizzo: "Via Scandellara, 50",
+        telefono: "051 535710",
+        tipologia: "Biblioteche dell'Istituzione - Biblioteche nei quartieri",
+        quartiere: "San Donato - San Vitale",
+        posizione: {type: "Point", "coordinates": [11.383316516876222, 44.49683440081399]}
+}
+{
+        name: "Biblioteca Dipartimento di Arti Visive I.B. Supino",
+        scheda: "[[http://www.dar.unibo.it/it/biblioteca/sezione-arti-visive]",
+        indirizzo: "Piazzetta G. Morandi, 2",
+        telefono: "0512097271",
+        tipologia: "Biblioteca Universitaria",
+        quartiere: "Centro"
+}
+{   
+        name: "Casa Carducci",
+        scheda: "[[http://www.bibliotechebologna.it//luoghi/52056/id/51663|Scheda Completa]]",
+        descrizione: "La biblioteca-archivio di Casa Carducci � centro di informazione specializzata sull'opera dello scrittore, nonch� punto di riferimento per gli studi letterari ottocenteschi",
+        indirizzo: "Piazza Carducci, 5",
+        telefono: "051 347592",
+        tipologia: "Biblioteche dell'Istituzione",
+        quartiere: "Santo Stefano",
+        posizione: {type: "Point","coordinates": [11.357261538505554, 44.48817465699673]}
+}
+{
+        name: "Puntolettura Bollini-Speroni - Quartiere Saragozza",
+        descrizione: "Il Puntolettura Bollini-Speroni � un servizio gratuito aperto dal 2008 dal Quartiere Porto-Saragozza, intitolato a Paolo Bollini insegnante e scrittore.",
+        indirizzo: "Via Pietralata, 58-60",
+        telefono: "051 526339",
+        tipologia: "Biblioteche dell'Istituzione - Biblioteche nei quartieri",
+        posizione: {type: "Point", "coordinates": [11.330831050872803, 44.49485612812426]}
+}
